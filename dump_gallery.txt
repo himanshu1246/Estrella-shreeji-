@@ -1,0 +1,173 @@
+<section class="oo-tabs pg-tabs" id="gallery">
+ <div class="row">
+  <div class="col">
+   <h3 class="section-heading text-center w-100">
+    Project Gallery of Estrella Kharghar
+   </h3>
+   <ul class="nav nav-pills justify-content-center mt-3 d-none" id="galTab-tab" role="tablist">
+    <li class="nav-item" role="presentation">
+     <button aria-controls="galTab-gallery" aria-selected="true" class="nav-link active" data-bs-target="#galTab-gallery" data-bs-toggle="pill" data-sliderid="gallery-galSider" data-tab-gal="galtab" id="galTab-gallery-tab" role="tab" type="button">
+      Gallery
+     </button>
+    </li>
+   </ul>
+   <div class="tab-content" id="galTab-tabContent">
+    <div aria-labelledby="galTab-gallery-tab" class="tab-pane fade show active" id="galTab-gallery" role="tabpanel" tabindex="0">
+     <div class="slider-container">
+      <div class="glide gallery-slider" id="gallery-galSider">
+       <div class="glide__track" data-glide-el="track">
+        <ul class="glide__slides">
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC06991.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC06991.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC06991.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 0" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC06991.JPG" src="./asset/shreeji-actual-photos/photos/DSC06991.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC06992.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC06992.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC06992.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 1" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC06992.JPG" src="./asset/shreeji-actual-photos/photos/DSC06992.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC06993.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC06993.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC06993.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 2" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC06993.JPG" src="./asset/shreeji-actual-photos/photos/DSC06993.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC06995.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC06995.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC06995.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 3" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC06995.JPG" src="./asset/shreeji-actual-photos/photos/DSC06995.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC06996.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC06996.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC06996.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 4" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC06996.JPG" src="./asset/shreeji-actual-photos/photos/DSC06996.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC06998.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC06998.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC06998.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 5" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC06998.JPG" src="./asset/shreeji-actual-photos/photos/DSC06998.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC07000.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC07000.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC07000.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 6" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC07000.JPG" src="./asset/shreeji-actual-photos/photos/DSC07000.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC07001.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC07001.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC07001.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 7" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC07001.JPG" src="./asset/shreeji-actual-photos/photos/DSC07001.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC07002.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC07002.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC07002.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 8" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC07002.JPG" src="./asset/shreeji-actual-photos/photos/DSC07002.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC07004.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC07004.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC07004.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 9" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC07004.JPG" src="./asset/shreeji-actual-photos/photos/DSC07004.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC07009.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC07009.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC07009.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 10" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC07009.JPG" src="./asset/shreeji-actual-photos/photos/DSC07009.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+         <li class="glide__slide">
+          <div class="amenities-block-wrapper">
+           <a class="gallery-img locked-gallery" data-bs-target="#enqPopup" data-bs-toggle="modal" data-gallery="gal-img" data-original-href="./asset/shreeji-actual-photos/photos/DSC07016.JPG" href="javascript:void(0);">
+            <picture>
+             <source data-srcset="./asset/shreeji-actual-photos/photos/DSC07016.JPG" srcset="./asset/shreeji-actual-photos/photos/DSC07016.JPG">
+              <img alt="ESTRELLA by Shreeji Group At Kharghar City, Navi Mumbai - Gallery Image 11" class="lazyload" data-sizes="auto" data-srcset="./asset/shreeji-actual-photos/photos/DSC07016.JPG" src="./asset/shreeji-actual-photos/photos/DSC07016.JPG"/>
+             </source>
+            </picture>
+           </a>
+          </div>
+         </li>
+        </ul>
+       </div>
+       <div class="glide__arrows" data-glide-el="controls">
+        <button class="glide__arrow glide__arrow--left" data-glide-dir="&lt;">
+         <i class="ri-arrow-left-s-line">
+         </i>
+        </button>
+        <button class="glide__arrow glide__arrow--right" data-glide-dir="&gt;">
+         <i class="ri-arrow-right-s-line">
+         </i>
+        </button>
+       </div>
+      </div>
+     </div>
+    </div>
+    <script>
+     galSliders.push('gallery-galSider')
+    </script>
+   </div>
+  </div>
+ </div>
+</section>

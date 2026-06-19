@@ -1,0 +1,229 @@
+--- PRICING ---
+<section class="light oo-tabs pg-tabs" id="pricing">
+ <div class="row">
+  <div class="col">
+   <h3 class="section-heading text-center w-100">
+    Area &amp; Pricing of Lodha Group Mahalaxmi
+   </h3>
+   <!-- For Single Unit Collection -->
+   <div class="price-slider-s-block mt-4">
+    <div class="glide" data-slideitems="3" id="price-slider">
+     <div class="glide__track" data-glide-el="track">
+      <ul class="glide__slides">
+       <li class="glide__slide">
+        <div class="price-block shadow">
+         <h4>
+          4 Bed
+         </h4>
+         <h5>
+          1603 - 1641 Sq.ft
+         </h5>
+         <h6>
+          <small>
+           ₹
+          </small>
+          8.59 Cr* Onwards
+         </h6>
+         <button class="btn btn-sm btn-dark btn-cta" data-bs-target="#enqPopup" data-bs-toggle="modal" data-form-name="Costing Details - 4 Bed" data-formbtn="Submit" data-formtitle="Costing Details">
+          Complete Costing Details
+         </button>
+        </div>
+       </li>
+       <li class="glide__slide">
+        <div class="price-block shadow">
+         <h4>
+          4 Bed with Study
+         </h4>
+         <h5>
+          1806-1960 Sq.ft
+         </h5>
+         <h6>
+          <small>
+           ₹
+          </small>
+          11.40 Cr* Onwards
+         </h6>
+         <button class="btn btn-sm btn-dark btn-cta" data-bs-target="#enqPopup" data-bs-toggle="modal" data-form-name="Costing Details - 4 Bed with Study" data-formbtn="Submit" data-formtitle="Costing Details">
+          Complete Costing Details
+         </button>
+        </div>
+       </li>
+       <li class="glide__slide">
+        <div class="price-block shadow">
+         <h4>
+          5 Bed (Jodi)
+         </h4>
+         <h5>
+          409-2762 Sq.ft
+         </h5>
+         <h6>
+          <small>
+           ₹
+          </small>
+          14.50 Cr* Onwards
+         </h6>
+         <button class="btn btn-sm btn-dark btn-cta" data-bs-target="#enqPopup" data-bs-toggle="modal" data-form-name="Costing Details
+--- LOCATION ---
+<section class="" id="location">
+ <div class="row">
+  <div class="col">
+   <h3 class="section-heading text-center w-100">
+    Location Advantage of Lodha Group Mahalaxmi
+   </h3>
+   <div class="row g-md-5 row-cols-1 row-cols-md-2 justify-content-center">
+    <!-- Plan Block - S -->
+    <div class="col">
+     <div class="plan-block">
+      <div class="bd-iframe bd-img mt-3 mb-4">
+       <iframe allowfullscreen="" class="lazyload border" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.940438087828!2d72.8271537!3d18.978237699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7cfc395c32dff%3A0xc29a4e7fff9b236f!2sLodha%20Bellevue%20Mahalaxmi!5e0!3m2!1sen!2sin!4v1717741589630!5m2!1sen!2sin" frameborder="0" title="Google Map location of LODHA BELLEVUE At Mahalaxmi, Mumbai">
+       </iframe>
+      </div>
+     </div>
+    </div>
+    <!-- Plan Block - E -->
+    <!-- Plan Block - S -->
+    <div class="col">
+     <div class="plan-block">
+      <a class="glightbox" data-gallery="loc-img" href="https://bellevuemahalaxmis.com/Lodha-4bhk/img/l-lpp.jpg">
+       <div class="bd-img blur mt-3 mb-4">
+        <span class="cta-text">
+         View Location Map
+        </span>
+        <picture>
+         <source data-srcset="./img/webp/l-lpp-768w.webp" type="image/webp">
+          <img alt="LODHA BELLEVUE Location Map and Nearby Landmarks" class="lazyload" data-sizes="auto" data-srcset="./img/l-lpp-768w.jpg" src="https://s3.ap-south-1.amazonaws.com/microsites.images/temp_assets/temp-xi/img/ip.png"/>
+         </source>
+        </picture>
+       </div>
+      </a>
+     </div>
+    </div>
+    <!-- Plan Block - E -->
+   </div>
+  </div>
+ </div>
+</section>
+
+--- AMENITIES ---
+<div class="collapse navbar-collapse" id="navbarNav">
+ <ul class="navbar-nav">
+  <li class="nav-item">
+   <a class="nav-link active" href="#home">
+    <i class="ri-home-9-line">
+    </i>
+    Home
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#pricing">
+    <i class="ri-money-rupee-circle-line">
+    </i>
+    Price
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#sitefloorplan">
+    <i class="ri-building-line">
+    </i>
+    Site Plan
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#amenities">
+    <i class="ri-wifi-line">
+    </i>
+    Amenities
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#gallery">
+    <i class="ri-image-line">
+    </i>
+    Gallery
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#location">
+    <i class="ri-map-pin-2-line">
+    </i>
+    Location
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" data-brochure-popup="yes" data-bs-target="#enqPopup" data-bs-toggle="modal" data-form-name="Download Brochure - Menu" data-formbtn="Start Download" data-formtitle='&lt;span class="d-inline-block" style="width: 30px;"&gt;&lt;i class="ri-download-2-line ani-bounce" style="position: absolute; margin-top: -25px;"&gt;&lt;/i&gt;&lt;/span&gt; Download Brochure' href="#!">
+    <!-- <i class="ri-download-2-line"></i> -->
+    <span class="d-inline-block" style="width: 20px;">
+     <i class="ri-download-2-line ani-bounce" style="position: absolute; margin-top: -10px;">
+     </i>
+    </span>
+    Brochure
+   </a>
+  </li>
+  <!-- CP Logo -->
+  <!-- <li class="nav-item text-center">
+		          <img class="lazyload cp-logo" src="https://s3.ap-south-1.amazonaws.com/microsites.images/temp_assets/temp-xi/img/ip.png" data-src="https://s3.ap-south-1.amazonaws.com/microsites.images/temp_assets/temp-xi/img/pp-acp.svg" alt="LODHA BELLEVUE - Authorised Channel Partner">
+		        </li> -->
+ </ul>
+</div>
+
+--- GALLERY ---
+<div class="collapse navbar-collapse" id="navbarNav">
+ <ul class="navbar-nav">
+  <li class="nav-item">
+   <a class="nav-link active" href="#home">
+    <i class="ri-home-9-line">
+    </i>
+    Home
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#pricing">
+    <i class="ri-money-rupee-circle-line">
+    </i>
+    Price
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#sitefloorplan">
+    <i class="ri-building-line">
+    </i>
+    Site Plan
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#amenities">
+    <i class="ri-wifi-line">
+    </i>
+    Amenities
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#gallery">
+    <i class="ri-image-line">
+    </i>
+    Gallery
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" href="#location">
+    <i class="ri-map-pin-2-line">
+    </i>
+    Location
+   </a>
+  </li>
+  <li class="nav-item">
+   <a class="nav-link" data-brochure-popup="yes" data-bs-target="#enqPopup" data-bs-toggle="modal" data-form-name="Download Brochure - Menu" data-formbtn="Start Download" data-formtitle='&lt;span class="d-inline-block" style="width: 30px;"&gt;&lt;i class="ri-download-2-line ani-bounce" style="position: absolute; margin-top: -25px;"&gt;&lt;/i&gt;&lt;/span&gt; Download Brochure' href="#!">
+    <!-- <i class="ri-download-2-line"></i> -->
+    <span class="d-inline-block" style="width: 20px;">
+     <i class="ri-download-2-line ani-bounce" style="position: absolute; margin-top: -10px;">
+     </i>
+    </span>
+    Brochure
+   </a>
+  </li>
+  <!-- CP Logo -->
+  <!-- <li class="nav-item text-center">
+		          <img class="lazyload cp-logo" src="https://s3.ap-south-1.amazonaws.com/microsites.images/temp_assets/temp-xi/img/ip.png" data-src="https://s3.ap-south-1.amazonaws.com/microsites.images/temp_assets/temp-xi/img/pp-acp.svg" alt="LODHA BELLEVUE - Authorised Channel Partner">
+		        </li> -->
+ </ul>
+</div>

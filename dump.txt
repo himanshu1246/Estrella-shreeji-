@@ -1,0 +1,25 @@
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Connectivity for Roads & Connectivity",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "<ul><li>Upcoming Kharghar Metro : 3 mins</li><li>Kharghar Race Course : 10 mins</li><li>Palladium &amp; High Street Phoenix : 15 mins</li><li>✈️ Navi Mumbai Intl. Airport : 15 Mins Drive</li><li>⛳ Valley Golf Course & Central Park : 5-7 Mins Drive</li><li>Domestic &amp; International Airports : 35 mins</li></ul>"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What payment plans are available?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We have flexible payment plans, such as 'Exclusive 25:75 Payment Plan'. For a full breakdown, please contact our team."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Do you offer a free site visit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, we offer a completely free, no-obligation site visit. Please contact us at +919606970804 to schedule."
