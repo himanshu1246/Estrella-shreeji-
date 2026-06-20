@@ -660,7 +660,7 @@ window.addEventListener("load", (event) => {
   if (isChatbot != "no") {
     let proName = atob(cbpron);
     let proNameComp = atob(cbproncomp);
-    window.chatgenSettings = { enquiry: proName, description: proNameComp };
+    window.chatgenSettings = { enquiry: proName, description: proNameComp, bot_name: 'Preeti', botName: 'Preeti', name: 'Preeti' };
     setTimeout(() => {
       loadChatgen(showSmallChatWindow);
       setTimeout(() => {
