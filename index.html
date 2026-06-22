@@ -934,7 +934,7 @@ if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded"
 	  	addEventListener("DOMContentLoaded", (event) => {
 		  setTimeout(() => {
 			  loadRecaptcha();
-			  console.log(typeof grecaptcha);
+			  
 			  if (typeof grecaptcha == 'undefined') {
 				const interval = setInterval(() => {
 				  if (typeof grecaptcha !== 'undefined') {
@@ -1128,4 +1128,15 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
-</body></html>
+
+<script>
+document.addEventListener('click', function(e) {
+    if (e.target.closest('.glightbox') || e.target.closest('[data-bs-toggle="modal"]') || e.target.closest('.btn-close')) {
+        setTimeout(() => {
+            if (document.activeElement) document.activeElement.blur();
+        }, 10);
+    }
+});
+</script>
+</body>
+</html>
