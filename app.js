@@ -61,7 +61,11 @@ class ScrollSpy {
   addEventListeners() {
     this.navLinks.forEach((t) => {
       t.addEventListener("click", (e) => {
-        (e.preventDefault(), this.scrollToSection(t.getAttribute("href")));
+        let href = t.getAttribute("href");
+        if (href && href.startsWith("#")) {
+          e.preventDefault();
+          this.scrollToSection(href);
+        }
       });
     });
   }
